@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'fooderlich_theme.dart';
-import 'home.dart';
+import 'style/fooderlich_theme.dart';
+import 'home/home.dart';
 
 void main() {
   runApp(const Fooderlich());
